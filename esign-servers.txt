@@ -1,0 +1,12 @@
+! Title: Block Esign Servers
+! Description: Blocks E-Sign from talking to Chinese Servers.
+! Homepage: https://zxcvbn.fyi/esign-servers.txt
+!
+||utoken.umeng.com^
+||ulogs.umeng.com^
+||ulogs.umengcloud.com^
+||ios.bugly.qq.com^
+||h.trace.qq.com^
+||api.nuosike.com^
+||esign.yyyue.xyz^
+||ocsp.yyyue.xyz^
